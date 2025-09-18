@@ -2,9 +2,10 @@
 <h3 align="center">A Korean undergraduate student studying AI</h3>
 
 - 📫 How to reach me
-  - **- **Email**: [eoxkxid@gmail.com]**
+  - ** **Email**: [eoxkxid@gmail.com]**
 
-- ⚡ Fun fact **- I’ll be volunteering in Manila for a semester while continuing my AI studies.**
+- ⚡ Fun fact
+  - ** I’ll be volunteering in Manila for a semester while continuing my AI studies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
