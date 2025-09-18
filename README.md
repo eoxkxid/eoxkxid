@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gunwoo</h1>
 <h3 align="center">A Korean undergraduate student studying AI</h3>
 
-- 📫 How to reach me **- **Email**: [eoxkxid@gmail.com]**
+- 📫 How to reach me
+  - **- **Email**: [eoxkxid@gmail.com]**
 
 - ⚡ Fun fact **- I’ll be volunteering in Manila for a semester while continuing my AI studies.**
 
