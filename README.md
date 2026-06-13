@@ -6,4 +6,4 @@
 - 📫 How to reach me
   - **Email**: [eoxkxid@gmail.com]
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/eoxkxid?theme=dark&font=Inter)](https://leetcode.com/eoxkxid)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/eokxxid?theme=nord&font=Inter)](https://leetcode.com/eokxxid)
