@@ -7,4 +7,10 @@
   - **Email**: [eoxkxid@gmail.com]
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/eokxxid?theme=tokyonight&font=Inter)](https://leetcode.com/eokxxid)
+<h2 align="center">Problem Solving</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/eoxkxid">
+    <img src="https://leetcard.jacoblin.cool/eoxkxid?theme=dark&font=Inter" alt="LeetCode Stats" />
+  </a>
+</div>
