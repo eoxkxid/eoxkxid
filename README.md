@@ -7,4 +7,4 @@
   - **Email**: [eoxkxid@gmail.com]
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/eoxkxid?theme=transparent&font=Inter)](https://leetcode.com/eoxkxid)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/eokxxid?theme=tokyonight&font=Inter)](https://leetcode.com/eokxxid)
