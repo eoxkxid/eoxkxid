@@ -14,3 +14,10 @@
     <img src="https://leetcard.jacoblin.cool/eoxkxid?theme=dark&font=Inter" alt="LeetCode Stats" />
   </a>
 </div>
+
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode" />
+</p>
