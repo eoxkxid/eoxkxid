@@ -10,8 +10,8 @@
 <h2 align="center">Problem Solving</h2>
 
 <div align="center">
-  <a href="https://leetcode.com/eoxkxid">
-    <img src="https://leetcard.jacoblin.cool/eoxkxid?theme=dark&font=Inter" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/Gunwoo Park (eoxkxid)">
+    <img src="https://leetcard.jacoblin.cool/Gunwoo Park (eoxkxid)?theme=dark&font=Inter" alt="LeetCode Stats" />
   </a>
 </div>
 
